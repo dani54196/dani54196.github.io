@@ -1,2 +1,4 @@
 # dani54196.github.io
-[Portfolio Page](https://danicardozo.me/portfolio/)
+[Software of South](https://southware.site/)
+[Personal Github](https://github.com/dani54196)
+[Links](https://linktr.ee/softwareofsouth)
